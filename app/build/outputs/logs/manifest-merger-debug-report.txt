@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:18:1-37:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\126bbef755179cd5bf0a70abdebbd751\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\17a67fdb1a8c362490248b51003f52e2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\422d3eac76a541c85e6ace4b280b0fc0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8369ada9ab9ae7d0f4b5ba62cef79399\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\382a931ee0ffe3a58f536a845b4a2c74\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\40a30b67e6cded0df832fd1ea3268d97\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\681350321b9bacbe891e5c2089d783ff\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1a04976ce949afc6293ce378edbff085\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\4d2988e7dca932c223dc95e8958a037e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ffb1d15b8a46666ea8fcbb57fef20e9a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\99faa1c1f55cfbe09359dd42936833a8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\dc48f5922a5050f1b17e49453d157a85\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d8cf357dfdbc8de94a884fce41e46050\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\dc68e03e3d9778f9d6860f0562607e38\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:18:1-37:12
+	package
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:19:11-59
+		INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:18:1-37:12
+		INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:18:1-37:12
+		INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:21:5-35:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\126bbef755179cd5bf0a70abdebbd751\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\126bbef755179cd5bf0a70abdebbd751\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\17a67fdb1a8c362490248b51003f52e2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\17a67fdb1a8c362490248b51003f52e2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\422d3eac76a541c85e6ace4b280b0fc0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\422d3eac76a541c85e6ace4b280b0fc0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8369ada9ab9ae7d0f4b5ba62cef79399\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8369ada9ab9ae7d0f4b5ba62cef79399\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\382a931ee0ffe3a58f536a845b4a2c74\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\382a931ee0ffe3a58f536a845b4a2c74\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\40a30b67e6cded0df832fd1ea3268d97\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\40a30b67e6cded0df832fd1ea3268d97\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\681350321b9bacbe891e5c2089d783ff\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\681350321b9bacbe891e5c2089d783ff\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1a04976ce949afc6293ce378edbff085\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1a04976ce949afc6293ce378edbff085\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\4d2988e7dca932c223dc95e8958a037e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\4d2988e7dca932c223dc95e8958a037e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ffb1d15b8a46666ea8fcbb57fef20e9a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ffb1d15b8a46666ea8fcbb57fef20e9a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\99faa1c1f55cfbe09359dd42936833a8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\99faa1c1f55cfbe09359dd42936833a8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\dc48f5922a5050f1b17e49453d157a85\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\dc48f5922a5050f1b17e49453d157a85\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d8cf357dfdbc8de94a884fce41e46050\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d8cf357dfdbc8de94a884fce41e46050\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\dc68e03e3d9778f9d6860f0562607e38\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\dc68e03e3d9778f9d6860f0562607e38\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.android.phonenumberspinner.MainActivity
+ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:28:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\126bbef755179cd5bf0a70abdebbd751\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\126bbef755179cd5bf0a70abdebbd751\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\17a67fdb1a8c362490248b51003f52e2\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\17a67fdb1a8c362490248b51003f52e2\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\422d3eac76a541c85e6ace4b280b0fc0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\422d3eac76a541c85e6ace4b280b0fc0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8369ada9ab9ae7d0f4b5ba62cef79399\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8369ada9ab9ae7d0f4b5ba62cef79399\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\382a931ee0ffe3a58f536a845b4a2c74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\382a931ee0ffe3a58f536a845b4a2c74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\40a30b67e6cded0df832fd1ea3268d97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\40a30b67e6cded0df832fd1ea3268d97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\681350321b9bacbe891e5c2089d783ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\681350321b9bacbe891e5c2089d783ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1a04976ce949afc6293ce378edbff085\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1a04976ce949afc6293ce378edbff085\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\4d2988e7dca932c223dc95e8958a037e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\4d2988e7dca932c223dc95e8958a037e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ffb1d15b8a46666ea8fcbb57fef20e9a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ffb1d15b8a46666ea8fcbb57fef20e9a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\99faa1c1f55cfbe09359dd42936833a8\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\99faa1c1f55cfbe09359dd42936833a8\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\dc48f5922a5050f1b17e49453d157a85\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\dc48f5922a5050f1b17e49453d157a85\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d8cf357dfdbc8de94a884fce41e46050\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d8cf357dfdbc8de94a884fce41e46050\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\dc68e03e3d9778f9d6860f0562607e38\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\dc68e03e3d9778f9d6860f0562607e38\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\126bbef755179cd5bf0a70abdebbd751\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\PhoneNumberSpinner\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\126bbef755179cd5bf0a70abdebbd751\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\17a67fdb1a8c362490248b51003f52e2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\17a67fdb1a8c362490248b51003f52e2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8369ada9ab9ae7d0f4b5ba62cef79399\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8369ada9ab9ae7d0f4b5ba62cef79399\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\382a931ee0ffe3a58f536a845b4a2c74\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\382a931ee0ffe3a58f536a845b4a2c74\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\40a30b67e6cded0df832fd1ea3268d97\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\40a30b67e6cded0df832fd1ea3268d97\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\681350321b9bacbe891e5c2089d783ff\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\681350321b9bacbe891e5c2089d783ff\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1a04976ce949afc6293ce378edbff085\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1a04976ce949afc6293ce378edbff085\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\4d2988e7dca932c223dc95e8958a037e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\4d2988e7dca932c223dc95e8958a037e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ffb1d15b8a46666ea8fcbb57fef20e9a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ffb1d15b8a46666ea8fcbb57fef20e9a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\99faa1c1f55cfbe09359dd42936833a8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\99faa1c1f55cfbe09359dd42936833a8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\dc48f5922a5050f1b17e49453d157a85\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\dc48f5922a5050f1b17e49453d157a85\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d8cf357dfdbc8de94a884fce41e46050\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d8cf357dfdbc8de94a884fce41e46050\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\126bbef755179cd5bf0a70abdebbd751\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\126bbef755179cd5bf0a70abdebbd751\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\dc68e03e3d9778f9d6860f0562607e38\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\dc68e03e3d9778f9d6860f0562607e38\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\dc68e03e3d9778f9d6860f0562607e38\AndroidManifest.xml:26:13-58
